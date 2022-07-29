@@ -449,7 +449,7 @@ leaflet() %>%
       ),
       paste(
         "<strong>Cantón:</strong>",
-        delitos_por_distrito$distrito
+        delitos_por_distrito$canton
       ),
       paste(
         "<strong>Provincia:</strong>",
